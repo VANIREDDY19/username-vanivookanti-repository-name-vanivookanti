@@ -28,3 +28,8 @@ I am a Data Analyst with 4+ years of experience working with healthcare, finance
 - Data Engineering
 - Machine Learning
 - Cloud Data Platforms
+  
+## Projects  - Healthcare Predictive Analytics 
+- Retail Sales Optimization Dashboard
+- Credit Risk Analysis Dashboard
+- Data Pipeline using Python & SQL
